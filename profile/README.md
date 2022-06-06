@@ -1,4 +1,4 @@
-## Welcome to IgWebDE's GitHub page 👋
+## Welcome to IgWebDE 👋
 
 <!--
 
