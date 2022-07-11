@@ -8,7 +8,7 @@ Our Projects:
 > Wir bezahlen keine Mitarbeiter.
 
 > Vorteile für Entwickler bei IgWeb:
-> - ☁️ 50gb Cloud Storage
+> - ☁️ 30gb Cloud Storage
 > - 🖥️ Own Root-Server
 > - 🌷 Pleasant development environment
 > - 👋 Friendly Team
