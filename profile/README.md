@@ -4,7 +4,7 @@ Our Projects:
 <a href="https://standardsucht.net/">StandardSucht Network</a>
 
 > IgWebDE ist kein Unternehmen!<br>
-> Wir sind eine Media-Gruppe aus Entwicklern und anderen Interessenten.<br>
+> Wir sind eine Medien-Gruppe aus Entwicklern und anderen Interessenten.<br>
 > Wir bezahlen keine Mitarbeiter.
 
 > Vorteile für Entwickler bei IgWeb:
