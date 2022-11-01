@@ -1,5 +1,8 @@
 ## Welcome to IgWebDE 👋
 
-Our Projects:
-<a href="https://standardsucht.net/">StandardSucht Network</a>
-https://interguessweb.de/imprint
+#### Our Projects:
+- [StandardSucht Network](https://standardsucht.net/)
+<br>
+
+#### Legal:
+- [Impressum](https://interguessweb.de/imprint/)
