@@ -3,7 +3,6 @@
 #### Our Projects:
 - [StandardSucht Network](https://standardsucht.net/)
 - [OldCraften Network](https://oldcraften.de/)
-- [SpaceYard Network](https://spaceyard.de/)
 - [BridgersWorld Network](https://bridgersworld.eu/)
 
 #### Legal:
