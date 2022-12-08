@@ -5,4 +5,3 @@
 #### Our Projects:
 - [StandardSucht Network](https://standardsucht.net/)
 - [OldCraften Network](https://oldcraften.de/)
-- [BridgersWorld Network](https://bridgersworld.eu/)
