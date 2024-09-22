@@ -22,3 +22,6 @@ At Interguess, security is paramount. We understand the importance of safeguardi
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="Google Cloud" title="Google Cloud"/></code>
 </div>
+
+## Credits
+- Thanks to [Bastitron](https://github.com/Bastitron) for some of the awesome designs
