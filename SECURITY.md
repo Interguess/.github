@@ -1,4 +1,4 @@
-# Interguess Opensource Security Policy
+# Interguess Open Source Security Policy
 
 This security policy applies to all open source projects operated by Interguess. We may also be the point of contact for other issues. Further information on this can be found in the next section.
 
