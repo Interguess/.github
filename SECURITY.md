@@ -58,7 +58,7 @@ Thanks for supporting a secure experience for all users.
 ## Disclosure Process
 - External security researchers can submit vulnerabilities via the published security contact. Each report is logged and forwarded to the security team, which acknowledges receipt and assigns an internal reference number without assessing validity.
 - During triage, the team checks reproducibility, affected products or versions, and scope. Out-of-scope or non-reproducible reports are rejected and the reporter is informed. Valid reports move on to technical validation; additional information is requested if needed.
-- If the issue meets the CNA’s scope and criteria, the CNA coordinator reserves or assigns a CVE ID. The security team then works with engineering or product teams to develop a fix or a reliable mitigation and determine which versions are affected. The vulnerability is not published until a fix or mitigation is ready. If no fix is possible, this is stated transparently.
+- If the issue meets the CNA (CVE Numbering Authority)’s scope and criteria, the CNA coordinator reserves or assigns a CVE ID. The security team then works with engineering or product teams to develop a fix or a reliable mitigation and determine which versions are affected. The vulnerability is not published until a fix or mitigation is ready. If no fix is possible, this is stated transparently.
 - The publication includes the CVE ID, a description, affected versions, and—if permitted—the reporter’s name. All triage decisions, communication, and publication details are archived internally afterward.
 
 ## CVE Assignment Policy & Publication Commitment
